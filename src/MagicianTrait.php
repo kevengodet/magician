@@ -1,6 +1,6 @@
 <?php
 
-namespace GK\Magician;
+namespace Keven\Magician;
 
 trait MagicianTrait
 {

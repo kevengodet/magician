@@ -1,5 +1,5 @@
 {
-    "name": "gk/magician",
+    "name": "keven/magician",
     "description": "Register magic methods handlesr from traits and abstract classes. DO NOT USE IN PRODUCTION.",
     "type": "library",
     "keywords": ["property", "accessor", "mutator", "getter", "setter", "call", "method", "magic"],
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "GK\\Magician\\": "src"
+            "Keven\\Magician\\": "src"
         }
     }
 }
