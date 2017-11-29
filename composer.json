@@ -1,0 +1,22 @@
+{
+    "name": "gk/magician",
+    "description": "Register magic methods handlesr from traits and abstract classes. DO NOT USE IN PRODUCTION.",
+    "type": "library",
+    "keywords": ["property", "accessor", "mutator", "getter", "setter", "call", "method", "magic"],
+    "homepage": "https://github.com/kgodet/magician",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keven",
+            "email": "keven.mail@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.4|^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "GK\\Magician\\": "src"
+        }
+    }
+}
